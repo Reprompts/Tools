@@ -1,6 +1,6 @@
 ## Tools & Projects:
 
-### 🧱 [`repmt`](https://github.com/reprompts/repmt) — Static Prompt Generator
+### [`repmt`](https://github.com/reprompts/repmt) - Static Prompt Generator
 
 ![Downloads](https://static.pepy.tech/badge/repmt/month)  
 Easily extract static prompts from large code repositories. Offline and lightweight. Perfect for researchers and LLM projects.
@@ -9,7 +9,7 @@ Easily extract static prompts from large code repositories. Offline and lightwei
 
 ---
 
-### 🛡️ [`fastsecforge`](https://github.com/reprompts/fastsecforge) — Secure FastAPI Boilerplate Generator
+### [`fastsecforge`](https://github.com/reprompts/fastsecforge) - Secure FastAPI Boilerplate Generator
 
 ![Downloads](https://static.pepy.tech/badge/fastsecforge/month)  
 CLI-based tool to generate a FastAPI project with built-in security features like JWT, rate-limiting, CORS, headers, and more.
@@ -18,7 +18,7 @@ CLI-based tool to generate a FastAPI project with built-in security features lik
 
 ---
 
-### 🔒 [`flasksecforge`](https://github.com/reprompts/flasksecforge) — Secure Flask Boilerplate Generator
+### [`flasksecforge`](https://github.com/reprompts/flasksecforge) - Secure Flask Boilerplate Generator
 
 ![Downloads](https://static.pepy.tech/badge/flasksecforge/month)  
 Same as `fastsecforge` but made for Flask — generate secure Flask REST APIs in seconds.
@@ -27,7 +27,7 @@ Same as `fastsecforge` but made for Flask — generate secure Flask REST APIs in
 
 ---
 
-### 🧪 [`pyapptest`](https://github.com/reprompts/pyapptest) — Visual Python API Tester
+### [`pyapptest`](https://github.com/reprompts/pyapptest) - Visual Python API Tester
 
 ![Downloads](https://static.pepy.tech/badge/pyapptest/month)  
 Streamlit-based UI for testing APIs directly from your project folder. Autodetects endpoints and supports GET/POST/PUT/DELETE testing flows.
@@ -36,7 +36,7 @@ Streamlit-based UI for testing APIs directly from your project folder. Autodetec
 
 ---
 
-### 🔊 [`pyttsgen`](https://github.com/reprompts/pyttsgen) — Text to Speech Generator
+### [`pyttsgen`](https://github.com/reprompts/pyttsgen) - Text to Speech Generator
 
 ![Downloads](https://static.pepy.tech/badge/pyttsgen/month)  
 Text-to-speech library using Microsoft Edge TTS — produce high-quality speech offline or programmatically.
@@ -45,7 +45,7 @@ Text-to-speech library using Microsoft Edge TTS — produce high-quality speech 
 
 ---
 
-### 🌱 [`gitstarter`](https://github.com/reprompts/gitstarter) — GitHub Visual CLI
+### [`gitstarter`](https://github.com/reprompts/gitstarter) - GitHub Visual CLI
 
 ![Downloads](https://static.pepy.tech/badge/gitstarter/month)  
 Use a Streamlit-based interface to visually execute GitHub operations: commits, branches, status, pushes, and more — no command-line needed.
@@ -54,7 +54,7 @@ Use a Streamlit-based interface to visually execute GitHub operations: commits, 
 
 ---
 
-### 🌱 [`lightchat`](https://github.com/reprompts/lightchat) — lightweight GPT-2-based toolkit
+### [`lightchat`](https://github.com/reprompts/lightchat) - lightweight GPT-2-based toolkit
 
 ![Downloads](https://static.pepy.tech/badge/lightchat/month)  
 LightChat is a lightweight GPT-2–based toolkit built on top of DistilGPT2. It enables anyone to train, deploy, and interact with a custom chatbot on low‑end devices using simple CLI commands
@@ -63,7 +63,7 @@ LightChat is a lightweight GPT-2–based toolkit built on top of DistilGPT2. It 
 
 ---
 
-## 📦 Install All Tools (Example)
+## Install All Tools (Example)
 
 You can install the libraries individually as needed:
 
