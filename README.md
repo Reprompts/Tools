@@ -70,8 +70,10 @@ You can install the libraries individually as needed:
 ```bash
 pip install repmt fastsecforge flasksecforge pyapptest pyttsgen gitstarter
 
-## 🛠️ More Coming Soon!
+```
 
-RePromptsHub is continuously growing — stay tuned for even more dev-focused libraries and utilities.
+## More Coming Soon!
+
+RePromptsHub is continuously growing - stay tuned for even more dev-focused libraries and utilities.
 
 ---
